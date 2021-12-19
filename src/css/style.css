@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@100;400;700&display=swap');
+
+*{
+    font-family: 'IBM Plex Sans KR', sans-serif;
+}
+
+.navigation{
+    display: block;
+}
